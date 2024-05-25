@@ -1,0 +1,8 @@
+CORS is an important policy in webdDev. Cors is a security measure that 
+restricts a webpage to make requests to a different domain. Stands for 
+"Cross-Origin Resource Sharing".
+
+What happens?
+When a browser wants to access a different domain, it sends a request to that
+domain's target server. The server then decides if the request is permitted or
+not. It checks: 1. Origins, 2. Methods, 3. Headers.
