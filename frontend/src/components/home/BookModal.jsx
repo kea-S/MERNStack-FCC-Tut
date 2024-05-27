@@ -2,6 +2,8 @@ import { AiOutlineClose } from 'react-icons/ai';
 import { PiBookOpenTextLight } from 'react-icons/pi';
 import { BiUserCircle } from 'react-icons/bi';
 
+// modals are "pop ups", use setShowModal
+
 const BookModal = ({ book, onClose }) => {
   return (
     <div
